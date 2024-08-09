@@ -1,4 +1,4 @@
-# Openweathermap-Gira-HS
+# Weather Information based on Openweathermap API
  Openweathermap for Gira Homeserver
 
 Logic in Gira Homeserver
