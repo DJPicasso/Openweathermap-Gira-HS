@@ -36,7 +36,7 @@ Daily weather information in VISU
 Configuring the Gira Homeserver to get the OpenWeathermap data
 
 To get the information you need to make an API call
-https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API key}&units={units}&lang={language}
+https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API_key}&units={units}&lang={language}
 
 The API call you can specify via Web-Request/IP-Request in the homeserver
 
