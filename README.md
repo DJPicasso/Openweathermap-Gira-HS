@@ -1,6 +1,9 @@
 # Weather Information based on Openweathermap API
  Openweathermap for Gira Homeserver
 
+Information regarding API 3.0 you will find here: https://openweathermap.org/api/one-call-3
+
+
 Logic in Gira Homeserver
 ![grafik](https://github.com/user-attachments/assets/22630b76-7bd7-428d-977c-014464f98792)
 
