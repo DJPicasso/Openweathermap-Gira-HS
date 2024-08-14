@@ -7,6 +7,7 @@ This LM (logic module) supports:
 - current
 - hourly
 - daily
+
 Therefore you need to configure input (E3 current=1/hour=2/day=3).
 
 
