@@ -3,6 +3,17 @@
 
 Information regarding API 3.0 you will find here: https://openweathermap.org/api/one-call-3
 
+To get the information you need to make an API call
+https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API key}&units={units}&lang={language}
+
+The API call you can specify via Web-Request/IP-Request in the homeserver
+![grafik](https://github.com/user-attachments/assets/caf1665f-58a9-4fc6-a683-bfd16af53f8b)
+
+![grafik](https://github.com/user-attachments/assets/2b8077e4-1563-42ee-9478-25a7d4eef3ba)
+
+![grafik](https://github.com/user-attachments/assets/5f2525f0-9476-499f-99f5-91b78ccae17a)
+
+
 This LM (logic module) supports:
 - current
 - hourly
