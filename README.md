@@ -39,6 +39,10 @@ To get the information you need to make an API call
 https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API_key}&units={units}&lang={language}
 
 The API call you can specify via Web-Request/IP-Request in the homeserver
+![grafik](https://github.com/user-attachments/assets/8030cb03-494b-481e-bd52-73c373b6f34a)
 
+![grafik](https://github.com/user-attachments/assets/7b1e89e7-8fb3-44cb-a8c8-6e93f52d3ba0)
+
+![grafik](https://github.com/user-attachments/assets/05841b4f-df53-484d-91a7-0b6402a3bd21)
 
 
