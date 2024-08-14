@@ -47,3 +47,11 @@ The API call you can specify via Web-Request/IP-Request in the homeserver
 ![grafik](https://github.com/user-attachments/assets/05841b4f-df53-484d-91a7-0b6402a3bd21)
 
 
+Dynamic Icons
+For getting individualized icons you should use the functionality "dynamic symbols" in Gira Homeserver.
+There are several sites where you can download weather icons.
+My settings are
+![grafik](https://github.com/user-attachments/assets/4d5398ac-f5e2-4694-abde-ec43d95f2a12)
+
+
+
