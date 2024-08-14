@@ -53,5 +53,11 @@ There are several sites where you can download weather icons.
 My settings are
 ![grafik](https://github.com/user-attachments/assets/4d5398ac-f5e2-4694-abde-ec43d95f2a12)
 
+Rain Risk
 
+![grafik](https://github.com/user-attachments/assets/cf58c3c1-5708-439b-832e-7de9bc2a34fa)
+
+Wind direction
+
+![grafik](https://github.com/user-attachments/assets/0ef22559-c538-4381-8d5f-f8b2a4877bf6)
 
