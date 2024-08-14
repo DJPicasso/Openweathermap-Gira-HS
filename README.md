@@ -43,5 +43,5 @@ The API call you can specify via Web-Request/IP-Request in the homeserver
 
 ![grafik](https://github.com/user-attachments/assets/2b8077e4-1563-42ee-9478-25a7d4eef3ba)
 
-![grafik](https://github.com/user-attachments/assets/5f2525f0-9476-499f-99f5-91b78ccae17a)
+
 
