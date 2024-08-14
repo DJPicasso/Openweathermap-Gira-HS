@@ -26,7 +26,8 @@ Current weather information in VISU
 
 
 Example for daily weather (0, 1, 2, 3)
-![grafik](https://github.com/user-attachments/assets/da71461e-912c-4cd9-94ca-a7b6bdd5654e)
+![grafik](https://github.com/user-attachments/assets/d0e82cb5-ed3a-4362-9b40-4848b6daf96e)
+
 
 Daily weather information in VISU
 
