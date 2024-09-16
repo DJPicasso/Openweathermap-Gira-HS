@@ -1,5 +1,5 @@
 #################################################
-###   (C) 2021, DJPicasso		      ###
+###   (C) 2021, DJPicasso				      ###
 ###   LBS : OpenWeatherMap Forecast Onecall   ###
 ###   Datum: 12.05.2024                       ###
 #################################################
@@ -258,10 +258,10 @@
 5012|0|"(EN[3]==3)"				|"float(SN[3]['feels_like']['night'])"								|""	|32|0|0|0
 
 # rain // Precipitation, mm/h. Please note that only mm/h as units of measurement are available for this parameter 
-5012|0|"(EN[3] in (1,2))"			|"float(SN[3]['rain']['1h']) if 'rain' in SN[3] else '0'"					|""    |33|0|0|0
-5012|0|"(EN[3]==3)"				|"float(SN[3]['rain']) if 'rain' in SN[3] else '0'"						|""    |33|0|0|0
+5012|0|"(EN[3] in (1,2))"			|"float(SN[3]['rain']['1h']) if 'rain' in SN[3] else 0"						|""    |33|0|0|0
+5012|0|"(EN[3]==3)"				|"float(SN[3]['rain']) if 'rain' in SN[3] else 0"						|""    |33|0|0|0
 
 # snow // Precipitation, mm/h. Please note that only mm/h as units of measurement are available for this parameter 
-5012|0|"(EN[3] in (1,2))"			|"float(SN[3]['snow']['1h']) if 'snow' in SN[3] else '0'"					|""    |34|0|0|0
-5012|0|"(EN[3]==3)"				|"float(SN[3]['snow']) if 'snow' in SN[3] else '0'"						|""    |34|0|0|0
+5012|0|"(EN[3] in (1,2))"			|"float(SN[3]['snow']['1h']) if 'snow' in SN[3] else 0"						|""    |34|0|0|0
+5012|0|"(EN[3]==3)"				|"float(SN[3]['snow']) if 'snow' in SN[3] else 0"						|""    |34|0|0|0
 
